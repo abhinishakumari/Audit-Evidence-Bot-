@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #0f172a;
+  padding: 10px 20px;
+  color: #fff;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  height: 32px;   /* 👈 keeps it inline with the text */
+  width: auto;
+  object-fit: contain;
+}
+
+.title {
+  font-size: 1.5rem;
+  margin: 0;
+  line-height: 1;
+}
