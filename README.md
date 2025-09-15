@@ -24,6 +24,8 @@ Version Control: Git & GitHub
 
 APIs: RESTful APIs integration with GitHub, Jira, document parsers
 
+**  To run the application on your local follow below steps -  **
+
 git clone https://github.com/abhinishakumari/Audit-Evidence-Bot-.git
 cd Audit-Evidence-Bot-
 
@@ -31,5 +33,5 @@ npm install
 
 npm start
 
-The app will run on http://localhost:3000/
+**The app will run on http://localhost:3000/**
  🎉
